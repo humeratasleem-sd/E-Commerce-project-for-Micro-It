@@ -1,0 +1,31 @@
+🔧 Project Setup
+To run this project:
+
+Install Tailwind CSS
+Follow the Tailwind CSS React setup
+
+Install Icons & UI
+
+bash:  npm install lucide-react
+Optional UI Library (e.g., shadcn/ui)
+Replace Button component or use raw HTML buttons if not using a library.
+
+📦 Features You Can Add
+🔎 Search and filter products
+
+🛒 Persistent cart with localStorage
+
+🔐 User authentication (e.g., Firebase)
+
+💳 Payment integration (e.g., Stripe)
+
+📦 Backend with Node.js or Firebase for product management
+
+
+
+
+
+
+
+
+

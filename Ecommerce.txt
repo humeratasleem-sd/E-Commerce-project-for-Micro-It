@@ -1,0 +1,9 @@
+.An e-commerce website or app is a strong project for demonstrating front-end, back-end, and design skills. Below is a complete starter e-commerce app using React (for web) with features like:
+
+> Product listing
+
+> Shopping cart
+
+> Simple checkout
+
+> Tailwind CSS styling
